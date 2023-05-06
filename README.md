@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdulkader-kayyasa
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning React.js
-- 📫 How to reach me : +963958230580
+- 👀 I’m Software Engineer
+- 🌱 Intereted in UI and Web Development
+- 📫 How to reach me : +964 751 053 6551
 
 
